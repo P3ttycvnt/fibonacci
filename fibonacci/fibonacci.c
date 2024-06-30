@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main(){
-    // ints messed it all up, the program just printed negative numbers
+    //ints messed it all up, the program just printed negative numbers
     long morer = 1;
     long lesser = 0;
     long middle = 0;
