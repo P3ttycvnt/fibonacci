@@ -7,7 +7,7 @@ int main(){
     long lesser = 0;
     long middle = 0;
     
-    //quick cheat to print 0 lol
+    //quick cheat to print 0 as first number in series lol
     printf("0\n");
     
     for(int i = 0; i < 46; i++){
