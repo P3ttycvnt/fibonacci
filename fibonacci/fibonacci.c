@@ -11,7 +11,7 @@ int main(){
     printf("0\n");
     
     for(int i = 0; i < 46; i++){
-    //quick algorithm to print fibonacci
+    //algorithm to print fibonacci
     printf("%d\n", morer);
     middle = lesser;
     lesser = morer;
