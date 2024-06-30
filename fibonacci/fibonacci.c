@@ -6,6 +6,7 @@ int main(){
     long morer = 1;
     long lesser = 0;
     long middle = 0;
+    //quick cheat to print 0 lol
     printf("0\n");
     for(int i = 0; i < 46; i++){
     //quick algorithm to print fibonacci
